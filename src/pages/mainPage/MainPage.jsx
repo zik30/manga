@@ -3,7 +3,7 @@ import { getMangaAct } from '../../redux/actions/actions'
 import { useSelector } from 'react-redux'
 import { useEffect } from 'react'
 import styles from './mainPage.module.css'
-import Card from '../../components/card/card'
+import Card from '../../components/card/Card'
 
 const MainPage = () => {
 
