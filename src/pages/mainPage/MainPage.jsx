@@ -2,7 +2,7 @@ import { useDispatch } from 'react-redux'
 import { getMangaAct } from '../../redux/actions/actions'
 import { useSelector } from 'react-redux'
 import { useEffect } from 'react'
-import styles from './MainPage.module.css'
+import styles from './mainPage.module.css'
 import Card from '../../components/card/card'
 
 const MainPage = () => {
